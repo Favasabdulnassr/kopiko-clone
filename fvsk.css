@@ -1,0 +1,129 @@
+.background-container
+{
+    background-color: black;
+    height: 2000px;
+    width:100%;
+}
+.kopiko-usa{
+    background-color:black;
+    color: #b7b7b7;;
+    width:40%;
+    font-family:"Playfair Display", serif;
+    font-size:22px;
+    font-stretch:100%;
+    font-style:normal;
+    text-decoration-style: solid;
+    font-weight: 400;
+    letter-spacing: 6.5px;
+    line-height:50.6px; 
+    position:absolute;
+    left: 38%;
+    top:15px;
+
+}
+.worlds1{
+    background-color: black;
+    color:#b7b7b7;;
+    position: absolute;
+    left:33%;
+    top:95px;
+    letter-spacing:6.5px;
+}
+.header-flex
+{
+    width:55%;
+    display: flex;
+    flex-direction: row;
+    
+    color:white;
+    background-color:black;
+    position: absolute;
+    top:180px;
+    left:25%;
+    justify-content: space-evenly;
+}
+.line
+{
+    width:90%;
+    background-color:black;
+    color:rgb(153, 153, 153);
+    position:absolute;
+    top:150px;
+    left:5%;
+    right:5%;
+}
+.coffee{
+    position: absolute;
+    top:230px;
+    width:100%;
+
+}
+body{
+    margin:0%;
+}
+.flex-para{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    position: absolute;
+    left:30%;
+    top:1150px;
+    font-size:22px;
+}
+.image2
+{
+    width:60%;
+    height:60%;
+    position: absolute;
+    left:20%;
+    right:20%;
+    top:1400px;
+}
+.footer
+{
+    height:400px;
+    width:100%;
+    background-color: black;
+    position: absolute;
+    top:2000px;
+}
+.image-flex{
+    display: flex;
+    flex-direction: row;
+    height:100px;
+    width:500px;
+    justify-content: space-between;
+    background-color:black;
+    position: absolute;
+    left:30%;
+    right:30%;
+    top:100px;
+}
+.facebook{
+    height:40px;
+    width:40px;
+}
+.insta
+{
+    height:40px;
+    width:40px;
+}
+.youtube
+{
+    height:50px;
+    width:50px;
+
+}
+.linkedin
+{
+    height:40px;
+    width:40px;
+}
+.copywrite{
+    width:40%;
+    position:absolute;
+    bottom:0%;
+    right:30%;
+    left:30%;
+    color: white;
+}
